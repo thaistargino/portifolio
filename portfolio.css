@@ -2,23 +2,23 @@
 
 @font-face {
 	font-family: 'Aqua Grotesque';
-	src: url('aqua.ttf') format('truetype');
+	src: url('css/fontes/aqua.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'cat&fox';
-	src: url('cat&fox.otf') format('opentype');
+	src: url('css/fontes/cat&fox.otf') format('opentype');
 }
 
 @font-face {
 	font-family: 'PlayfairDisplay SC';
-	src: url('PlayfairDisplaySC-Regular.ttf') format('truetype');
+	src: url('css/fontes/PlayfairDisplaySC-Regular.ttf') format('truetype');
 
 }
 
 @font-face{
 	font-family: 'Ideal Sans - Book';
-	src: url('IDEALSANS-BOOK.otf') format('truetype');
+	src: url('css/fontes/IDEALSANS-BOOK.otf') format('truetype');
 }
 
 
